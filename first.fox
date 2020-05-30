@@ -1,4 +1,4 @@
 main()
 {
-  orint_ln("Hello");
+  orint_ln("Hello Fox");
 }

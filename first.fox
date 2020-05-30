@@ -1,4 +1,5 @@
 main()
 {
   orint_ln("Hello Fox");
+  orint_ln("Hello Second line");
 }
